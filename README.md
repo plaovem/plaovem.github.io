@@ -1,6 +1,6 @@
 # Welcome to Ruibing Homepages
 
-I am currently a Ph.D student in Nanyang Technological University
+I currently work as a Scientist I in the A*Star, Singapre.
 
 ## Research Interest
 
